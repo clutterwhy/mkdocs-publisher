@@ -5,7 +5,7 @@ nav:
     - Introduction: 'index.md'
 
 theme:
-    name: 'readthedocs'
+    name: 'material'
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
