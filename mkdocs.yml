@@ -4,9 +4,9 @@ site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your si
 nav:
     - Home: 'index.md'
     - 'Support':
-        - 'Callouts': 'callouts.md'
-        - 'Tables': 'table.md'
-        - 'Code Blocks': 'codeblocks.md'
+        - 'Callouts': 'support/callouts.md'
+        - 'Tables': 'support/table.md'
+        - 'Code Blocks': 'support/codeblocks.md'
 
 theme:
     name: 'material'
