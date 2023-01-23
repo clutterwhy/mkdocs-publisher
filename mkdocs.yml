@@ -7,6 +7,13 @@ nav:
         - 'Callouts': 'support/callouts.md'
         - 'Tables': 'support/table.md'
         - 'Code Blocks': 'support/codeblocks.md'
+pages:
+- Home: 'index.md'
+- Support:
+    - 'Callouts': 'support/callouts.md'
+    - 'Tables': 'support/table.md'
+- About:
+    - 'Github Publisher Plugin': 'about/plugin.md'
 
 theme:
     name: 'material'

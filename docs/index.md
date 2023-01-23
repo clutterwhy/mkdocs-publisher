@@ -1,8 +1,5 @@
 ---
 share: true
-nav:
-  - Home: 'index.md'
-  - Support: 'support/callouts.md'
 ---
 
 # Welcome to MkDocs
