@@ -1,9 +1,11 @@
 site_name: mkdocs-publisher # Change this to your site name
 site_description: Demo site
 site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your site URL
+nav:
+    - Introduction: 'index.md'
 
 theme:
-    name: 'material'
+    name: 'readthedocs'
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
