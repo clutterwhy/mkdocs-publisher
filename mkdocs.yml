@@ -6,6 +6,7 @@ nav:
     - 'Support':
         - 'Callouts': 'callouts.md'
         - 'Tables': 'table.md'
+        - 'Code Blocks': 'codeblocks.md'
 
 theme:
     name: 'material'
@@ -43,6 +44,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
+        - navigation.path
         
 # Extensions
 markdown_extensions:
