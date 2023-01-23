@@ -44,7 +44,6 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
-        - navigation.path
         
 # Extensions
 markdown_extensions:
