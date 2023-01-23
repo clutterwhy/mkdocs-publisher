@@ -1,6 +1,5 @@
 ---
 share: true
-title: Github Publisher Setup
 ---
 
 ### Github
