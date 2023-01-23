@@ -23,6 +23,7 @@ share: true
 	- Default folder: `docs`
 	- Transfer attachment: `enabled`
 	- Share through file menu: `enabled`
+	- Auto clean up: `enabled`
 
 ### Frontmatter
 
