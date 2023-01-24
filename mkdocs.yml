@@ -6,12 +6,12 @@ site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your si
 nav:
   - Home: index.md
   - Support:
-    - Overview: 'index.md'
+    - Overview: index.md
     - Content:
       - support/callouts.md
       - support/table.md
     - Code:
-      - support/codeblocks.md
+      - support/code-blocks.md
       - support/code-annotate.md
 
 
