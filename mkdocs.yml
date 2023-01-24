@@ -6,6 +6,7 @@ nav:
         - 'Overview': 'index.md'
         - 'Notes': 'notes.md' 
     - 'Support':
+        - 'Overview': 'support/index.md'
         - 'Callouts': 'support/callouts.md'
         - 'Tables': 'support/table.md'
         - 'Code Blocks': 'support/codeblocks.md'
