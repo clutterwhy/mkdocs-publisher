@@ -1,5 +1,6 @@
 ---
 share: true
+category: support
 ---
 
 | Header | Header 2 |
