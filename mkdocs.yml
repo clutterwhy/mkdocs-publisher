@@ -7,12 +7,12 @@ nav:
         - 'Notes': 'notes.md' 
         - 'Setup': 'setup.md'
     - 'Support':
-      Overview:
-        - 'Overview': 'support/index.md'
-      Markdown:
-        - 'Callouts': 'support/callouts.md'
-        - 'Tables': 'support/table.md'
-        - 'Code Blocks': 'support/codeblocks.md'    
+        - Overview:
+          - 'Overview': 'support/index.md'
+        - Markdown:
+          - 'Callouts': 'support/callouts.md'
+          - 'Tables': 'support/table.md'
+          - 'Code Blocks': 'support/codeblocks.md'    
 
 theme:
     name: 'material'
