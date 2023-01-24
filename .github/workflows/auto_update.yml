@@ -52,7 +52,7 @@ jobs:
         if: ${{ steps.cpr.outputs.pull-request-operation == 'created' }} && ${{ env.AUTO_MERGE == 'true' }}
         uses: peter-evans/enable-pull-request-automerge@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.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 }}
           pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
           merge-method: squash
           
