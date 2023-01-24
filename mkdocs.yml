@@ -13,7 +13,8 @@ nav:
             - 'Callouts': 'support/callouts.md'
             - 'Tables': 'support/table.md'
             - 'Code Blocks': 'support/codeblocks.md'    
-    Pages: 'Section'
+    - Pages:
+       - 'One': 'index.md'
 
 
 theme:
