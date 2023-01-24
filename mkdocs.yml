@@ -11,11 +11,10 @@ nav:
         - 'Callouts': 'support/callouts.md'
         - 'Tables': 'support/table.md'
         - 'Code Blocks': 'support/codeblocks.md'
-
     - Setup:
       - Part A:
-        - Download repo: 'support/table.md'
-        - Actions: 'support/codeblocks.md'
+        - 'Download repo': 'support/table.md'
+        - 'Actions': 'support/codeblocks.md'
     
 
 theme:
