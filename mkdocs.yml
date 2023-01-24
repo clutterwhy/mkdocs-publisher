@@ -1,19 +1,21 @@
 site_name: mkdocs-publisher # Change this to your site name
 site_description: Demo site
 site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your site URL
+
+# Page tree
 nav:
-    - 'Home':
-        - 'Overview': 'index.md'
-        - 'Notes': 'notes.md' 
-        - 'Setup': 'setup.md'
-    - 'Support':
-        - Overview:
-          - 'Index': 'support/index.md'  
-        - Markdown:
-            - 'Callouts': 'support/callouts.md'
-            - 'Tables': 'support/table.md'
-            - 'Code Blocks': 'support/codeblocks.md'
-        - 'Another section': 'support/index.md'
+  - Home: index.md
+  - Core:
+    - core/intro.md
+    - Installation:
+      - core/installation/intro.md
+      - core/installation/requirements.md
+      - core/installation/variables.md
+      - core/installation/steps.md
+    - Transactions:
+      - core/transactions/intro.md
+      - core/transactions/lifecycle.md
+      - core/transactions/nonce.md
 
 
 theme:
@@ -46,6 +48,7 @@ theme:
         name: Switch to light mode
     features:
         - navigation.indexes
+        - navigation.sections
         - navigation.top
         - navigation.tabs
         - navigation.tabs.sticky
