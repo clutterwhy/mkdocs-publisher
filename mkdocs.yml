@@ -10,7 +10,7 @@ nav:
         - Overview:
           - 'Overview': 'support/index.md'
         - 'Section':  
-          - Markdown:
+        - Markdown:
             - 'Callouts': 'support/callouts.md'
             - 'Tables': 'support/table.md'
             - 'Code Blocks': 'support/codeblocks.md'    
