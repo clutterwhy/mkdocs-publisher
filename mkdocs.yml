@@ -5,7 +5,7 @@ site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your si
 # Page tree
 nav:
   - Home: index.md
-  - Support
+  - Support:
     - index.md
     - Installation:
       - support/callouts.md
