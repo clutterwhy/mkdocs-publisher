@@ -18,6 +18,13 @@ nav:
       - Page n: support/codeblocks.md
     
 
+    - Setup:
+      - Download repo: support/table.md
+      - Actions: support/codeblocks.md
+    - Guide:
+      - Upload document: support/table.md
+    
+
 theme:
     name: 'material'
     #logo: assets/meta/favicons.png
