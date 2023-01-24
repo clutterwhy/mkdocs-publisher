@@ -5,17 +5,13 @@ site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your si
 # Page tree
 nav:
   - Home: index.md
-  - Core:
-    - core/intro.md
+  - Support
+    - index.md
     - Installation:
-      - core/installation/intro.md
-      - core/installation/requirements.md
-      - core/installation/variables.md
-      - core/installation/steps.md
+      - support/callouts.md
+      - support/table.md
     - Transactions:
-      - core/transactions/intro.md
-      - core/transactions/lifecycle.md
-      - core/transactions/nonce.md
+      - support/callouts.md
 
 
 theme:
