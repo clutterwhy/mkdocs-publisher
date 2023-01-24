@@ -6,16 +6,14 @@ nav:
         - 'Overview': 'index.md'
         - 'Notes': 'notes.md' 
         - 'Setup': 'setup.md'
-    - 'Support':
-        - Overview:
-          - 'Overview': 'support/index.md'  
-        - Markdown:
-            - 'Callouts': 'support/callouts.md'
-            - 'Tables': 'support/table.md'
-            - 'Code Blocks': 'support/codeblocks.md'    
-    - Pages:
-       - 'One': 'index.md'
 
+	  - Overview:
+		  - 'Index': 'index.md'
+	  - Markdown:
+		  - 'Callouts': 'support/callouts.md'
+	  - Others:
+		  - 'Table': 'support/table.md'
+		  - 'Codeblocks': 'support/codeblocks.md'
 
 theme:
     name: 'material'
