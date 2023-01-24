@@ -12,7 +12,7 @@ nav:
         - 'Tables': 'support/table.md'
         - 'Code Blocks': 'support/codeblocks.md'
     - Setup:
-      - Part A:
+      - Pages:
         - 'Download repo': 'support/table.md'
         - 'Actions': 'support/codeblocks.md'
     
