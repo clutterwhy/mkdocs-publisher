@@ -5,6 +5,7 @@ nav:
     - 'Home':
         - 'Overview': 'index.md'
         - 'Notes': 'notes.md' 
+        - 'Setup': 'setup.md'
     - 'Support':
         - 'Overview': 'support/index.md'
         - 'Callouts': 'support/callouts.md'
