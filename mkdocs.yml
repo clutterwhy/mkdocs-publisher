@@ -12,6 +12,11 @@ nav:
         - 'Code Blocks': 'support/codeblocks.md'
         - 'Sub-nav':
             - 'Link': 'empty.md'
+    - Section:
+      - support/callouts.md
+      - Page 1: support/table.md
+      - Page n: support/codeblocks.md
+    
 
 theme:
     name: 'material'
