@@ -2,18 +2,12 @@ site_name: mkdocs-publisher # Change this to your site name
 site_description: Demo site
 site_url: https://clutterwhy.github.io/mkdocs-publisher # Change this to your site URL
 nav:
-    - 'Home':
-        - 'Overview': 'index.md'
-        - 'Notes': 'notes.md' 
-        - 'Setup': 'setup.md'
-
-	  - Overview:
-		  - 'Index': 'index.md'
+	  - Overview: index.md
 	  - Markdown:
-		  - 'Callouts': 'support/callouts.md'
+		  - support/callouts.md
 	  - Others:
-		  - 'Table': 'support/table.md'
-		  - 'Codeblocks': 'support/codeblocks.md'
+		  - support/table.md
+		  - support/codeblocks.md
 
 theme:
     name: 'material'
