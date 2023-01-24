@@ -44,13 +44,14 @@ theme:
         name: Switch to light mode
     features:
         - navigation.indexes
-      #  - navigation.sections
+        - navigation.sections
         - navigation.top
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.expand
         - search.suggest
         - search.highlight
+        - content.tabs.link
         
 # Extensions
 markdown_extensions:
