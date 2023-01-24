@@ -51,7 +51,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
-        - content.tabs.link
+        - content.code.annotate
         
 # Extensions
 markdown_extensions:
