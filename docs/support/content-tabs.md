@@ -3,14 +3,10 @@ share: true
 filename: content-tabs
 ---
 
-=== "C"
+``` yaml
+theme:
+  features:
+  - content.code.annotate # (1)
+```
 
-```
-#include <stdio.h>[](https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#__codelineno-3-5)
-```
-
-=== "C+"
-
-```
-#include <stdio.h>[](https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#__codelineno-3-5)
-```
+1.  :man_raising_hand: I'm a code annotation! I can contain `code`, __formatted text__, images, ... basically anything that can be written in Markdown.
