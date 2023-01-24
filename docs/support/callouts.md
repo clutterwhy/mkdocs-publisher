@@ -1,9 +1,6 @@
 ---
 share: true
-category: support
 ---
-
-### Callouts
 
 
 > [!success] This is a title
