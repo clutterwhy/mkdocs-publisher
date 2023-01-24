@@ -2,6 +2,6 @@
 share: true
 ---
 
-[Subscribe to our newsletter](#){ .md-button }
+[Obsidian](https://www.obsidian.md){ .md-button }
 
-[Subscribe to our newsletter](#){ .md-button .md-button--primary }
+[Subscribe to our newsletter](https://www.google.com){ .md-button .md-button--primary }
