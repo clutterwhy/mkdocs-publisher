@@ -8,12 +8,13 @@ nav:
         - 'Setup': 'setup.md'
     - 'Support':
         - Overview:
-          - 'Overview': 'support/index.md'
-        - 'Section':  
+          - 'Overview': 'support/index.md'  
         - Markdown:
             - 'Callouts': 'support/callouts.md'
             - 'Tables': 'support/table.md'
             - 'Code Blocks': 'support/codeblocks.md'    
+    Pages: 'Section'
+
 
 theme:
     name: 'material'
